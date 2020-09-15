@@ -125,7 +125,7 @@ Here a simple demo to help you start with ExtJSBridge and WKWebview
    </html>
    ```
 
-4. Sarafi console will output：
+4. Safari console will output：
 
    ``` 
    platform : ios
